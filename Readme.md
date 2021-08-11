@@ -5,6 +5,7 @@
 - Create a new Rails APP
 - Create a Controller
 - Create a Route
+- Test
 
 
 ### Controller v1
